@@ -24,9 +24,24 @@ Columns `id` and `Unnamed: 32` are dropped as they are not useful for modeling.
 - Feature importance to identify significant features
 
 ## Model
-- **Algorithm:** Random Forest Classifier
-- **Training:** 80% of dataset
-- **Testing:** 20% of dataset
-- **Evaluation Metric:** Accuracy
+Model Accuracy: 97.36%
+
+
+## Visualizations
+- Count plot for diagnosis distribution
+- Correlation heatmap
+- Histograms for numerical features
+- Pairplot for first 5 features
+- Feature importance plot
+
+## How to Run
+1. Clone the repository:
+2. Install required packages:
+3. pip install pandas matplotlib seaborn scikit-learn
+4. Run the script or notebook:
+5. View the model accuracy in the terminal and see all plots
+
+## Author
+**Khubaib** – AI and Machine Learning enthusiast focused on predictive modeling and data analysis.
 
 **Example Result:**
