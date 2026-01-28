@@ -44,4 +44,3 @@ Model Accuracy: 97.36%
 ## Author
 **Khubaib** – AI and Machine Learning enthusiast focused on predictive modeling and data analysis.
 
-**Example Result:**
